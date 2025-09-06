@@ -2,7 +2,7 @@
 
 A terminal-based digital clock with customizable display options.
 
-![Demo](demo.gif)
+<img width="961" height="520" alt="Screenshot_05-Sep_18-54-08_7501" src="https://github.com/user-attachments/assets/5aec1e1a-d4fc-4b2f-b660-75d36b921124" />
 
 ## Features
 
