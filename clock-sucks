@@ -1,0 +1,9 @@
+#!/bin/bash
+# clock-sucks - Terminal Clock Suite
+# A simple launcher for the terminal clock application
+
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Run the main.py script from the same directory
+python3 "$SCRIPT_DIR/main.py"
